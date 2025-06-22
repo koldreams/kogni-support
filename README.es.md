@@ -255,9 +255,10 @@ Para colaboraciones de investigación, integración clínica o licencias profesi
 **Framework**: SwiftUI + SwiftData  
 **Última Actualización**: Junio 2025
 
-**Desarrollador**: [Tu información de desarrollador]
-**Política de Privacidad**: [Enlace a política de privacidad]
-**Términos de Servicio**: [Enlace a términos de servicio]
+**Repositorio de Soporte**: [GitHub](https://github.com/koldreams/kogni-support)
+**Desarrollador**: [@koldreams](https://github.com/koldreams)
+**Política de Privacidad**: [Ver Política](legal/privacy/PRIVACY.es.md)
+**Términos de Servicio**: [Ver Términos](legal/terms/TERMS.es.md)
 
 ---
 

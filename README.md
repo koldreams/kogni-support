@@ -257,8 +257,8 @@ For research collaborations, clinical integration, or professional licensing:
 
 **Support Repository**: [GitHub](https://github.com/koldreams/kogni-support)
 **Developer**: [@koldreams](https://github.com/koldreams)
-**Privacy Policy**: [View Policy](https://github.com/koldreams/kogni-support/blob/main/PRIVACY.md)
-**Terms of Service**: [View Terms](https://github.com/koldreams/kogni-support/blob/main/TERMS.md)
+**Privacy Policy**: [View Policy](legal/privacy/PRIVACY.md)
+**Terms of Service**: [View Terms](legal/terms/TERMS.md)
 
 ---
 
